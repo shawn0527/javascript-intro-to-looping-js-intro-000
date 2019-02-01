@@ -12,7 +12,7 @@ function forLoop(array){
   return array
 }
 
-function wihleLoop (n) {
+function whileLoop (n) {
   let countdown=n
   while (countdown>0) {
     console.log(--countdown)
