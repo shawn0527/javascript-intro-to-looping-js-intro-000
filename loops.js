@@ -11,3 +11,11 @@ function forLoop(array){
   }
   return array
 }
+
+function wihleLoop (n) {
+  let countdown=n
+  while (countdown>0) {
+    console.log(--countdown)
+  }
+  return console.log('done')
+}
